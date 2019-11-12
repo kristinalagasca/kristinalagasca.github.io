@@ -41,8 +41,8 @@ img {
     margin-top: 54px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
-    height: auto;
+    height: 100%;
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
