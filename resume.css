@@ -1,0 +1,126 @@
+/* ---- Naviation bar ---- */
+.topnav {
+    position: fixed;
+    background-color: white;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    border-bottom: 1px darkgray solid;
+}
+
+.topnav a {
+    float: none;
+    color: darkslategrey;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Calibri Light";
+    top: 50%;
+    left: 50%;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 500px) {
+    .topnav a {
+        float: none;
+        display: block;
+    }
+
+    .topnav-center a {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: none;
+    }
+}
+
+/* ---- End of Navigation Bar ---- */
+
+/* ------ IMAGE ------ */
+
+img {
+    margin-top: 54px;
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    img {
+        margin-top: 54px;
+    }
+}
+
+/* ---- END OF IMAGE ---- */
+
+/* -------- MAIN -------- */
+.links {
+    font-family: "Calibri Light";
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 25px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+    text-underline-style: thick;
+}
+
+.main {
+    border: 1px solid none;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-family: "Calibri Light";
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 700px) {
+    .main {
+        padding: 10px;
+    }
+
+    .links a {
+        font-size: 16px;
+    }
+}
+
+/* ------ END OF MAIN ------ */
+
+
+
+/* -------- PROJECTS -------- */
+.projects {
+    border: 2px lightgray solid;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    font-family: "Calibri Light";
+    font-size: 15px;
+}
+
+@media screen and (max-width: 700px) {
+    .projects {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+/* ---- END OF PROJECTS ---- */
+
+
+
+/* -------- FOOTER -------- */
+.footer {
+    font-family: "Calibri Light";
+    font-size: 12px;
+    text-align: center;
+    padding: 30px;
+}
