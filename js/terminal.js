@@ -16,7 +16,6 @@ function ready() {
     $.ajax("phputil/lastlogin.php").done(function(lastLogin) {
         $.ajax("systeminfo.txt").done(function(data) {
             data = data.replace("{USERAGENT}", navigator.userAgent);
-            data = data.replace("{LASTLOGIN}", lastLogin);
 
             terminalPrint(data);
         }).always(function() {
