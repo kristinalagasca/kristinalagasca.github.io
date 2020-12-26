@@ -1,0 +1,7 @@
+Hello, friend. Welcome to my portfolio.<br/>
+<br/>
+&#9; * GitHub: <a href="https://github.com/kristinalagasca">https://github.com/kristinalagasca</a><br/>
+&#9; * User Agent: {USERAGENT}<br/>
+&#9; * Source Code: <a href="https://github.com/LittleBigBug/portfolio-web-terminal">https://github.com/LittleBigBug/portfolio-web-terminal</a><br/>
+<br/>
+Last Login: {LASTLOGIN}

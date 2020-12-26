@@ -1,0 +1,7 @@
+<b>Hello, friend.</b></br>
+My name is Kristina Marie and I am a Data Scientist.</br>
+For more information about me, check 'about.txt'</br>
+</br>
+The source code for my portfolio is listed above.</br>
+If you are familiar with this sort of terminal, you are welcome to use the commands, otherwise you can just click the links.</br>
+For a list of commands, type '<a href="#" class="helpcmd" onclick="clickCmd('help')">help</a>'</br>
