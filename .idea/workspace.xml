@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907b0043-e9b4-4c39-b163-68e0651809dd" name="Default Changelist" comment="" />
+    <list default="true" id="907b0043-e9b4-4c39-b163-68e0651809dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/defaultcommands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/terminal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phputil/gettermfiles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systeminfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/terminalfiles/about.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/terminalfiles/welcome.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +61,21 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +87,7 @@
       <workItem from="1608995727516" duration="674000" />
       <workItem from="1608996427588" duration="4152000" />
       <workItem from="1609001439533" duration="680000" />
-      <workItem from="1609005276326" duration="1137000" />
+      <workItem from="1609005276326" duration="1907000" />
     </task>
     <servers />
   </component>

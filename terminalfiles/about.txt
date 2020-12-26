@@ -1,7 +1,0 @@
-My name is Kristina Marie Lagasca-Torres.</br>
-I work as a Data Scientist for <a href="https://www.presagesecurity.com/">Presage Security</a>.</br>
-I was born and raised in New York City. After I graduated college in May 2019, I moved to San Diego to be with my (now) husband.</br>
-We got married in Sept 2020 and have moved back to the East Coast per his re-enlistment.</br>
-During my free time, I enjoy doing CTFs, teaching myself French, singing, playing the piano, and playing video games.</br>
-</br>
-Soon, I'll be posting some of my write-ups <a href="writeups.html">here</a>.
