@@ -69,7 +69,7 @@ body {
 }
 .terminal p::before {
     color: #36F0A7;
-    content: "guest@kristinalagasca.com ~/guest/portfolio $ ";
+    content: "guest@kristinalagasca.com ~/portfolio $ ";
 }
 
 a:link {

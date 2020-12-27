@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="907b0043-e9b4-4c39-b163-68e0651809dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -81,7 +82,7 @@
       <workItem from="1608996427588" duration="4152000" />
       <workItem from="1609001439533" duration="680000" />
       <workItem from="1609005276326" duration="6526000" />
-      <workItem from="1609030751780" duration="2366000" />
+      <workItem from="1609030751780" duration="3255000" />
     </task>
     <servers />
   </component>
