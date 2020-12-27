@@ -28,7 +28,7 @@ body {
     margin-top: 25px;
     background-color: #0f3642;
     opacity: 0.8;
-    color: #b4c4c6;
+    color: #ffffff;
     padding: 10px;
     border-radius: 0 0 7px 7px;
     position: relative;
@@ -74,10 +74,10 @@ body {
 }
 
 a:link {
-    color: #b4c4c6;
+    color: #ffffff;
 }
 
 a:visited {
-    color: #b4c4c6;
+    color: #ffffff;
 }
 
