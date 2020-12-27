@@ -23,8 +23,8 @@ body {
 .terminal {
     font-size: 1em;
     line-height: 1.2em;
-    width: 70vw;
-    min-height: 300px;
+    width: 65vw;
+    min-height: 600px;
     margin-top: 25px;
     background-color: #0f3642;
     opacity: 0.8;
