@@ -1,6 +1,5 @@
-var x = document.getElementsByClassName("terminal");
-
-$(document).ready(function()) {
-    console.log("o.o");
-    $(".prompt").html("guest@kristinalagasca.com ~/portfolio $ ");
+function terminalContent() {
+    document.getElementById('t-content').innerHTML = '<p>guest@kristinalagasca.com ~/portfolio $ </p>';
 }
+
+print(terminalContent())
