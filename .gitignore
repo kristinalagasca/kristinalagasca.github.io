@@ -1,0 +1,5 @@
+#large files
+.idea/
+
+#etc
+.DS_Store
