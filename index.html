@@ -2,24 +2,40 @@
 
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kristina Marie Lagasca</title>
-
     <link href="resume.css" rel="stylesheet" />
 </head>
 
 <body>
-<div class="terminal" data-content="~/portfolio">
-    <script>
-        document.write("Last Login: " + new Date());
-    </script>
-    <p>ls<br/>
-        <a href="aboutme.html">aboutme.txt</a>&nbsp;&nbsp;&nbsp;
-        <a href="writeups.html">writeups.txt</a>&nbsp;&nbsp;&nbsp;
-        <a href="resume.pdf">resume.pdf</a></p>
-    <p> </p>
-    <div id="t-content">
-        Input 'help' to see the full list of commands.
+<div class="terminal-container">
+    <div class="terminal-topbar">
+        <div class="mock-buttons">
+            <div class="circle red"></div>
+            <div class="circle yellow"></div>
+            <div class="circle green"></div>
+        </div>
+        <p class="terminal-title">~/portfolio</p>
+    </div>
+    <div class="terminal" data-content="~/portfolio">
+        <script>
+            document.write("Last Login: " + new Date());
+        </script>
+        <div id="t-content">
+            Input 'help' to see the full list of commands.
+        </div>
+        <div class="output">
+            <ul class="output-list"></ul>
+        </div>
+        <form id="form" autocomplete="off">
+            <label for="input-field">guest@kristinalagasca.com ~/portfolio $</label>
+            <input type="text" class="input-field" name="input-field" autocomplete="off">
+        </form>
     </div>
 </div>
+
+<script src="resume.js" defer></script>
 </body>
 </html>
