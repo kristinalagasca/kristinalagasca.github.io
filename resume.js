@@ -66,6 +66,7 @@ function createListItem() {
                 <ul class="list">
                     <li><a href="mailto: kristinalagasca@gmail.com">email</a></li>
                     <li><a href="https://www.linkedin.com/in/kristinamarielagasca/">linkedin</a></li>
+                    <li><a href="https://github.com/kristinalagasca">github</a></li>
                     <li><a href="https://twitter.com/tinyxtina_">twitter</a></li>
                     <li><a href="https://www.instagram.com/imkristina_/">instagram</a></li>
                 </ul>
