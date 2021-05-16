@@ -51,6 +51,7 @@ function createListItem() {
                 <ul class="list">
                     <li><a href="aboutme.html">aboutme.txt</a></li>
                     <li><a href="writeups.html">writeups.txt</a></li>
+                    <li><a href="blogposts.html">blog_posts.txt</a></li>
                     <li><a href="resume.pdf">resume.pdf</a></li>
                 </ul>
             </div>
